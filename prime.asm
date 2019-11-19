@@ -1,4 +1,3 @@
-
 ;<Program title>
 
 jmp start
